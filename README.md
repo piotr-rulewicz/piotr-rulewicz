@@ -17,7 +17,7 @@ Aspiring frontend developer focused on writing clean, simple code and learning b
 
 Build a portfolio and start my professional journey in frontend development.
 
-You're welcome to visit my [LinkedIn profile](www.linkedin.com/in/piotr-rulewicz-829472350).
+You're welcome to visit my [LinkedIn profile](https://www.linkedin.com/in/piotr-rulewicz-829472350).
 
 <!--
 ## Projects
