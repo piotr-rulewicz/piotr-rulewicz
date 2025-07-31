@@ -4,7 +4,7 @@ Aspiring frontend developer focused on writing clean, simple code and learning b
 
 ## Currently learning
 
-- frontend workflows with npm
+- Frontend workflows with npm
 - React
 
 ## Tech stack
@@ -24,4 +24,3 @@ You're welcome to visit my [LinkedIn profile](www.linkedin.com/in/piotr-rulewicz
 
 Coming soon...
 -->
-
